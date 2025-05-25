@@ -1,16 +1,20 @@
-## Hi there 👋
+👋 Hi, I'm Fabian
+I'm a Web Developer and Discord Developer with a focus on Python.
+I'm based in Germany and upload my own projects here.
 
-<!--
-**FabianLuca21/FabianLuca21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 Technologies & Tools:
+Python (e.g. for Discord bots)
 
-Here are some ideas to get you started:
+HTML, CSS, JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Flask / Django (if applicable)
+
+Git & GitHub
+
+📌 What you’ll find here:
+Personal web projects
+
+Discord bots
+
+Useful scripts and tools
+
