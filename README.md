@@ -6,9 +6,6 @@ I'm based in Germany and upload my own projects here.
 Python (e.g. for Discord bots)
 
 HTML, CSS, JavaScript
-
-Flask / Django (if applicable)
-
 Git & GitHub
 
 📌 What you’ll find here:
