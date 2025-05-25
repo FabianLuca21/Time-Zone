@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Zeitrechner Deutschland ⇄ Miami</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>🕒 Zeitrechner: Deutschland ⇄ Miami</h1>
+
+    <section class="live-times">
+      <h2>Aktuelle Uhrzeiten</h2>
+      <p>🇩🇪 Deutschland: <span id="germanyTime">–</span></p>
+      <p>🇺🇸 Miami: <span id="miamiTime">–</span></p>
+      <p>⏱️ Zeitunterschied: <span id="diff">–</span></p>
+    </section>
+
+    <section class="converter">
+      <h2>Zeit umrechnen</h2>
+      <div class="form-group">
+        <label for="inputTime">Uhrzeit eingeben:</label>
+        <input  time id="inputTime" type="text" step="" min="00:00" max="23:59">
+  
+      </div>
+      <div class="form-group">
+        <label for="direction">Umrechnungsrichtung:</label>
+        <select id="direction">
+          <option value="de2us">🇩🇪 Deutschland ➜ 🇺🇸 Miami</option>
+          <option value="us2de">🇺🇸 Miami ➜ 🇩🇪 Deutschland</option>
+        </select>
+      </div>
+      <div class="form-group">
+        <label for="season">Jahreszeit (Zeitzone):</label>
+        <select id="season" onchange="updateLiveTimes()">
+          <option value="summer">☀️ Sommerzeit</option>
+          
+        </select>
+      </div>
+      <button onclick="convertTime()">Umrechnen</button>
+      <div class="result">
+        🕓 Ergebnis: <strong id="convertedResult">–</strong>
+      </div>
+    </section>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
