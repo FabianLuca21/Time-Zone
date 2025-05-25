@@ -1,6 +1,6 @@
 # ⏱️ Time calculator
 
-**Zeitrechner** is a modern web app that allows you to easily add, subtract, and convert time — no installation needed.
+**Time calculator** is a modern web app that allows you to easily add, subtract, and convert time — no installation needed.
 
 🌐 **Live Demo:** [zeitrechner.netlify.app](https://zeitrechner.netlify.app/)
 
@@ -18,12 +18,14 @@
 - **JavaScript (Vanilla)**  
 - **[Netlify](https://www.netlify.com/)** for hosting
 
-## 📸 Preview
 
-![Zeitrechner Screenshot](https://via.placeholder.com/800x400?text=Insert+your+Screenshot+here)
 
-## 🚀 Getting Started
+ 🚀 Getting Started
 
+ 
+👨‍💻 Created by Fabian
+📍 Based in Germany
+📬 For questions or feedback, open an issue.
 To run the project locally, clone the repository:
 
 ```bash
