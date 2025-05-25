@@ -1,4 +1,4 @@
-# ⏱️ Zeitrechner
+# ⏱️ Time calculator
 
 **Zeitrechner** is a modern web app that allows you to easily add, subtract, and convert time — no installation needed.
 
