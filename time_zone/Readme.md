@@ -29,4 +29,4 @@
 To run the project locally, clone the repository:
 
 ```bash
-git clone https://github.com/your-username/zeitrechner.git
+git clone https://github.com/FabianLuca21/Time-Zone.git
