@@ -1,17 +1,20 @@
-👋 Hi, I'm Fabian
-I'm a Web Developer and Discord Developer with a focus on Python.
-I'm based in Germany and upload my own projects here.
+⏱️ Time calculator
+Time calculator is a modern web app that allows you to easily add, subtract, and convert time — no installation needed.
 
-🔧 Technologies & Tools:
-Python (e.g. for Discord bots)
+🌐 Live Demo: zeitrechner.netlify.app
 
-HTML, CSS, JavaScript
-Git & GitHub
+🔧 Features
+✅ Add & subtract time
+✅ Simple and intuitive design
+✅ Instant results without page reload
+✅ Fully responsive (mobile, tablet, desktop)
+🛠️ Built With
+HTML5
+CSS3
+JavaScript (Vanilla)
+Netlify for hosting
+🚀 Getting Started
 
-📌 What you’ll find here:
-Personal web projects
+👨‍💻 Created by Fabian 📍 Based in Germany 📬 For questions or feedback, open an issue. To run the project locally, clone the repository:
 
-Discord bots
-
-Useful scripts and tools
-
+git clone https://github.com/FabianLuca21/Time-Zone.git
